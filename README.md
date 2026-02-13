@@ -82,10 +82,17 @@ Estrategias de optimización de contratos: Incentivos para migrar a clientes de 
 Este proyecto demuestra:
 
 ✅ Limpieza de datos reales
+
 ✅ Feature engineering
+
 ✅ Manejo de desbalance
+
 ✅ Modelado comparativo
+
 ✅ Evaluación rigurosa
+
 ✅ Interpretabilidad
+
 ✅ Traducción de resultados a estrategia de negocio
+
 ✅ Preparación profesional para entrevista
