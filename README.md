@@ -1,7 +1,9 @@
 # Desaf-o-de-dataScienceParteFinal
 Corresponde al desafío challeger Telecom X II Alura latam 
 Telecom X – Predicción de Abandono de Clientes (Churn)
+
 📌 Resumen del Proyecto
+
 Este proyecto analiza el comportamiento de abandono de los clientes de Telecom X y desarrolla modelos predictivos para identificar a aquellos usuarios que están en riesgo de cancelar su servicio.
 
 El objetivo principal es transformar datos brutos en estrategias de retención e insights de negocio accionables.
