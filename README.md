@@ -94,5 +94,3 @@ Este proyecto demuestra:
 ✅ Interpretabilidad
 
 ✅ Traducción de resultados a estrategia de negocio
-
-✅ Preparación profesional para entrevista
